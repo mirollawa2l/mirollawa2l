@@ -7,6 +7,8 @@
   <a href="https://codeforces.com/profile/mirollawael"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"></a>
   <a href="https://kaggle.com/mirollawael"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
+
+
 ---
 ### 🚀 About Me
 I am an aspiring **AI Engineer** and a **Computer and Communications Engineering (CCE)** student at the Faculty of Engineering, Alexandria University. I love building intelligent systems and solving complex problems with data.
