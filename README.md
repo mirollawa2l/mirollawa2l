@@ -53,3 +53,24 @@ I am an aspiring **AI Engineer** and a **Computer and Communications Engineering
 
 #### 🚀 Deployment, DevOps & Infrastructure
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat-square&logo=GNU%20Bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat-square&logo=Jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-%23F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white)
+
+---
+
+
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mirollawa2l&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirollawa2l&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mirollawa2l&label=Profile%20Views&color=6C63FF&style=flat-square" alt="Profile Views" />
+</p>
+
+
+
